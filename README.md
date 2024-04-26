@@ -1,0 +1,9 @@
+In my report on AWS Lambda, I provided a detailed overview of the service, covering its definition, benefits, features, limitations, and real-world applications. I started by explaining that AWS Lambda is a serverless compute service offered by Amazon Web Services, allowing users to execute code without the hassle of managing servers. I emphasized its role as a convenient and cost-effective solution, as users only pay for the compute time they utilize.
+
+I outlined the reasons for using AWS Lambda in serverless architecture, highlighting its seamless integration with other AWS services like Amazon API Gateway, DynamoDB, and RDS. I offered examples of its practical use, such as data processing, web applications, IoT backends, and mobile backends, showcasing its versatility across various domains.
+
+Furthermore, I delved into Lambda's key features, which enable scalable, secure, and extensible application development. These features included configuring function options, using environment variables, managing versions, leveraging container images and layers, employing Lambda extensions, and controlling concurrency and scaling. By exploring these features, I aimed to illustrate Lambda's flexibility and adaptability to diverse use cases.
+
+I also acknowledged Lambda's limitations, such as cold start time, function limits, resource constraints, and potential cost considerations, providing a balanced perspective on its strengths and weaknesses.
+
+To exemplify Lambda's real-world application, I discussed Netflix's usage of the service. I showcased how Netflix employs Lambda to manage its extensive infrastructure, process data, enforce security measures, and optimize operations. This practical example effectively demonstrated Lambda's relevance and effectiveness in addressing complex challenges in modern cloud computing environments.
